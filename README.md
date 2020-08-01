@@ -17,4 +17,3 @@ Boolean operations on polygons (union, intersection, difference, xor)
 * Based somewhat on the F. Martinez (2008) algorithm:
     * [Paper](http://www.cs.ucr.edu/~vbz/cs230papers/martinez_boolean.pdf)
     * [Code](https://github.com/akavel/martinez-src)
-* [View the companion tutorial](http://syntheti.cc/article/polygon-clipping-pt2/)
