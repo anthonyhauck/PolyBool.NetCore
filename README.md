@@ -1,7 +1,7 @@
 # PolyBool.NetCore
 
 Boolean operations on polygons (union, intersection, difference, xor)
-(this library is a port for .netcore of [polybool](https://github.com/idormenco/PolyBool.Net)
+(this library is a port for .netcore of [polybool](https://github.com/idormenco/PolyBool.Net))
 # Features
 
 1. Clips polygons for all boolean operations
